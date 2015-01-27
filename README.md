@@ -8,7 +8,7 @@ These are originally created using Omnigraffle Pro but I have also exported as V
 
 Most of the activities are remixs of ideas found elsewhere. In most cases I have just condensed them down into a single sheet to try to avoid 'computing by numbers'.
 
-##The following sheets are avialable:
+##The following sheets are available:
 
 1. **getting-started**: a single page diagram of where all the cables and peripherals go on a Pi
 2. **linux-commands**: a 2 page guide to some of the most useful linux commands and some suggestions for things to try
