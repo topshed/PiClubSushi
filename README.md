@@ -10,6 +10,8 @@ Most of the activities are remixs of ideas found elsewhere. In most cases I have
 
 Some of the cards are available in two types: -half and -mini. This refers to the size of breadboard shown in the diagram.
 
+All projects are designed for the model B but should work with B+ and Pi 2. 
+
 ###Components
 
 Most of the components used in the hardware projects acan be acquired fairly cheaply, especially if you're prepared to wait a while for shipping from China. I've put together a [Pinterest Page](https://uk.pinterest.com/top_shed/coderdojo-ham-raspberry-pi-components/) that has links to some suggested places where the bits and bobs can be purchased. I cannot, of course offer any guarantee or promise that the products will always be available, be the cheapest or most reliable. YMMV.
