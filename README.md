@@ -38,6 +38,7 @@ Most of the components used in the hardware projects acan be acquired fairly che
 15. **minecraft-frozen**: create a freeze ray in minecraft and control its range with a variable resistor
 16. **piglowV3**: Use the PiGlow add-on board with Scratch and Python
 17. **StepperBETA**: Control a stepper motor through GPIOZero
+18. **CodeBug**: Use a tethered CodeBug
 
 ####Extras:
 
@@ -45,6 +46,6 @@ Most of the components used in the hardware projects acan be acquired fairly che
 
 **minecraftblocks**: a list of the block types available in Minecraft Pi edition.
 
-I try to maintain a [blog](http://richardhayler.blogspot.co.uk/ "Easily Distracted - my blog") about how the club is going and what has worked well and worked less well each week. This will contain more information about how each Suishi card is used. 
+More information can be found on my  [blog](http://richardhayler.blogspot.co.uk/ "Easily Distracted - my blog").
 
 I'll tweet about any updates <a href="https://twitter.com/rdhayler">Follow @rdhayler</a>
