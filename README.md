@@ -18,15 +18,12 @@ Most of the components used in the hardware projects acan be acquired fairly che
 
 ##The following sheets are available:
 
-1. **GettingStarted**: a single page diagram of where all the cables and peripherals go on a Pi
-2. 
-3. **mallow**: an annotated Fritzing diagram for a simple marshmallow squeezing game
-4. **led-scratch**: a breadboard project to light a single led using scratch (includes Fritzing diagram).
-4.1 **led-gpiozeroBETA**: a breadboard project to light a single led using Python and GPIOZero 
-4.2 **pwmled-gpiozeroBETA**: Vary the brightness of an LED through PWM with GPIOZero
-4.3 **RGBLed-gpiozeroBETA**: Control the colours of an RGB LED using GPIOZero
-5. **running-python3**: getting started with idle, intended for people who are new to Python
-6. **reaction-gpiozerBETA**: Add two button to the led from project 4/5 to create a simple recation time game. Scratch will detect who pushed their button first when the led lights up and display the winner. Also includes a (better) Python version.
+1. **led-scratch**: a breadboard project to light a single led using scratch (includes Fritzing diagram).
+2. **runningpython**: How to run the Geany IDE on a Pi for Python coding
+3. **led-gpiozeroBETA**: a breadboard project to light a single led using Python and GPIOZero 
+4. **reaction-gpiozerBETA**: Add two button to the led from project 4/5 to create a simple recation time game. Scratch will detect who pushed their button first when the led lights up and display the winner. Also includes a (better) Python version.
+5. **pwmled-gpiozeroBETA**: Vary the brightness of an LED through PWM with GPIOZero
+6. **RGBLed-gpiozeroBETA**: Control the colours of an RGB LED using GPIOZero
 7. **buzzerBIG-gpiozeroBETA**: A simple circuit to make a piezo buzzer buzz. Uses both Scratch(which is only really capable of making the buzzer tick) and Python.  
 8. **alarm-gpiozeroBETA**: Combine a cheap PIR sensor with the buzzer from project 7 to create a simple intruder alarm.
 9. **minecraft_gold**: Create a trail of golden blocks behind you.
@@ -39,6 +36,7 @@ Most of the components used in the hardware projects acan be acquired fairly che
 16. **piglowV3**: Use the PiGlow add-on board with Scratch and Python
 17. **StepperBETA**: Control a stepper motor through GPIOZero
 18. **CodeBug**: Use a tethered CodeBug
+19. **singleled-guizero**: Use GUIZERO to create a GUI to control an LED
 
 ####Extras:
 
